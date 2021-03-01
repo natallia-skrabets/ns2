@@ -3,13 +3,5 @@ some song text
 some more text
 in the lovely song
 
+____Update in master____
 
-Update I'd like to delete this row
-
-
-____FEATURE BRANCH____
-New content
-
-More new content
-
-Update in feature branch
